@@ -1,0 +1,7 @@
+export {default as A} from './form-a'
+export {default as B} from './form-b'
+export {default as C} from './form-c'
+export {default as D} from './form-d'
+export {default as E} from './form-e'
+export {default as F} from './form-f'
+export {default as Exam} from './exam' 
