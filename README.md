@@ -1,7 +1,7 @@
 # EXAM-SCHEDULING-MANAGEMENT-SYSTEM (ESMS)
-
-A DBMS project that aims to automate the whole tedious task of conducting exams.
-A web application created using React js, Bootstrap js, HTML, CSS and Firebase to automate the process of Exam Scheduling and Management.😎
+<div align="center">
+  <a href="https://exam-management-system.netlify.app/" target="_blank"><img src="https://github.com/dharun-narayanan/Department_Library_Automation/blob/master/src/images/link.png" width="80"</a>
+</div>
 
 ## About The Project
 
