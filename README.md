@@ -1,6 +1,6 @@
 # EXAM-SCHEDULING-MANAGEMENT-SYSTEM (ESMS)
 <div align="center">
-  <a href="https://exam-management-system.netlify.app/"><img src="https://github.com/dharun-narayanan/Department_Library_Automation/blob/master/src/images/link.png" width="80"</a>
+  <a href="https://exam-management-system.netlify.app/" target="_blank"><img src="https://github.com/dharun-narayanan/Department_Library_Automation/blob/master/src/images/link.png" width="80"</a>
 </div>
 
 ## About The Project
